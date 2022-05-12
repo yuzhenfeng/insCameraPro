@@ -3,7 +3,7 @@ pluginManagement {
         gradlePluginPortal()
         google()
         mavenCentral()
-        maven {
+/*        maven {
             url 'http://nexus.arashivision.com:9999/repository/maven-public/'
             //  'http://nexus.arashivision.com:9999/repository/maven-public/'
             credentials {
@@ -11,7 +11,7 @@ pluginManagement {
                 username = 'yuzhenfeng198@163.com'
                 password = 'yu901121'
             }
-        }
+        }*/
     }
 }
 dependencyResolutionManagement {
